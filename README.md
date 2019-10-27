@@ -1,2 +1,2 @@
 # cd101-docker
-Alls the Flows that run in Docker
+This repository houses all of the flows which do not require specific hardware (SenseHat).
